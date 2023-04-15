@@ -10,17 +10,12 @@
 
 # sdk "iphoneos9.0"
 
-build_target = ENV["TARGET"]
-stage_build_path = "#{ENV["BUILD_PATH"]}/#{ENV["PLATFORM"]}/#{build_target}"
-stage_artifacts_path = "#{ENV["DIST_PATH"]}/#{ENV["PLATFORM"]}/#{build_target}"
-
-derived_data_path stage_build_path
-buildlog_path stage_build_path
-build_path stage_build_path
-output_directory stage_artifacts_path
-output_name ENV["APP_NAME"]
-
 clean true
 silent false
-include_bitcode false
 skip_profile_detection true
+
+build_path "build"
+derived_data_path "build/derived_data"
+#cloned_source_packages_path "build/sources"
+
+disable_xcpretty true

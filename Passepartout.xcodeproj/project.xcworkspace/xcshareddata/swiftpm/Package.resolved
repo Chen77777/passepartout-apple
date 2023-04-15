@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DTFoundation",
+        "repositoryURL": "https://github.com/Cocoanetics/DTFoundation.git",
+        "state": {
+          "branch": null,
+          "revision": "76062513434421cb6c8a1ae1d4f8368a7ebc2da3",
+          "version": "1.7.18"
+        }
+      },
+      {
+        "package": "GenericJSON",
+        "repositoryURL": "https://github.com/zoul/generic-json-swift",
+        "state": {
+          "branch": null,
+          "revision": "a137894b2a217abe489cdf1ea287e6f7819b1051",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "Kvitto",
+        "repositoryURL": "https://github.com/Cocoanetics/Kvitto",
+        "state": {
+          "branch": null,
+          "revision": "88888674d772ddcf19671159ed0022cb0bc37be2",
+          "version": "1.0.6"
+        }
+      },
+      {
+        "package": "openssl-apple",
+        "repositoryURL": "https://github.com/passepartoutvpn/openssl-apple",
+        "state": {
+          "branch": null,
+          "revision": "757c074af45e4f2514fe63f649ccdde966183e90",
+          "version": "1.1.11700"
+        }
+      },
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver",
+        "state": {
+          "branch": null,
+          "revision": "12b5acf96d98f91d50de447369bd18df74600f1a",
+          "version": "1.9.6"
+        }
+      },
+      {
+        "package": "TunnelKit",
+        "repositoryURL": "https://github.com/passepartoutvpn/tunnelkit",
+        "state": {
+          "branch": null,
+          "revision": "8f066a9e4821f041693c8262ba01ef49ab0084ae",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "WireGuardKit",
+        "repositoryURL": "https://github.com/passepartoutvpn/wireguard-apple",
+        "state": {
+          "branch": null,
+          "revision": "73d9152fa0cb661db0348a1ac11dbbf998422a50",
+          "version": "1.0.17"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

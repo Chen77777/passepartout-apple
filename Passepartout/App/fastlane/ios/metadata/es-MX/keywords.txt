@@ -1,0 +1,1 @@
+wireguard,openvpn,mullvad,protonvpn,nordvpn,pia,windscribe,expressvpn,tunnelbear,gratuito,anónimo
